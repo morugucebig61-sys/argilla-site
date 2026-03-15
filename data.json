@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "category": "brooch",
+      "name": "Брошь «Пион»",
+      "description": "Объёмная брошь ручной работы с детально проработанными лепестками. Каждый лепесток вылеплен и тонирован вручную.",
+      "images": [
+        "img/hero-brooch.png",
+        "img/product-brooch-set.png",
+        "img/clay-texture.png"
+      ],
+      "price": 2721,
+      "oldPrice": null,
+      "discount": "-17%"
+    },
+    {
+      "id": "p2",
+      "category": "earrings",
+      "name": "Серьги «Капли росы»",
+      "description": "Лёгкие изящные серьги с текстурой утренней росы на лепестках. Фурнитура — хирургическая сталь.",
+      "images": [
+        "img/product-earrings.png",
+        "img/clay-texture.png",
+        "img/hero-brooch.png"
+      ],
+      "price": 2400,
+      "oldPrice": 2800,
+      "discount": "-15%"
+    },
+    {
+      "id": "p3",
+      "category": "rings",
+      "name": "Кольцо «Лепесток»",
+      "description": "Минималистичное кольцо с одним крупным лепестком. Имитация нефрита с тёплым подтоном.",
+      "images": [
+        "img/product-ring.png",
+        "img/clay-texture.png"
+      ],
+      "price": 2400,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "id": "p4",
+      "category": "sets",
+      "name": "Набор «Весенний сад»",
+      "description": "Комплект из броши, серёг и кольца в единой цветочной стилистике. Подарочная упаковка включена.",
+      "images": [
+        "img/product-brooch-set.png",
+        "img/hero-brooch.png",
+        "img/product-earrings.png",
+        "img/product-ring.png"
+      ],
+      "price": 6900,
+      "oldPrice": 7900,
+      "discount": "-13%"
+    },
+    {
+      "id": "p5",
+      "category": "brooch",
+      "name": "Брошь «Магнолия»",
+      "description": "Нежная брошь с акварельными переходами цвета. Вдохновлена цветением магнолии ранней весной.",
+      "images": [
+        "img/product-brooch-set.png",
+        "img/hero-brooch.png"
+      ],
+      "price": 3500,
+      "oldPrice": null,
+      "discount": null
+    },
+    {
+      "id": "p6",
+      "category": "earrings",
+      "name": "Серьги «Лотос»",
+      "description": "Серьги с объёмными лепестками лотоса. Ручная тонировка масляными пастелями. Фурнитура — позолота.",
+      "images": [
+        "img/product-earrings.png",
+        "img/hero-brooch.png",
+        "img/clay-texture.png"
+      ],
+      "price": 2800,
+      "oldPrice": 3100,
+      "discount": "-10%"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "date": "2026-03-10",
+      "title": "МК «Весенний букет»",
+      "description": "Создаём реалистичные цветы из полимерной глины. Каждый участник унесёт готовый букет-брошь. Для начинающих.",
+      "image": "img/hero-brooch.png",
+      "time": "14:00 — 17:00",
+      "location": "ул. Творческая, 12, Студия ARGILLA",
+      "slots": 8,
+      "price": "2 800 ₽"
+    },
+    {
+      "id": "e2",
+      "date": "2026-03-10",
+      "title": "МК «Минимализм в глине»",
+      "description": "Создаём минималистичные украшения в скандинавском стиле. Серьги и подвеска. Средний уровень.",
+      "image": "img/product-earrings.png",
+      "time": "18:00 — 20:30",
+      "location": "ул. Центральная, 5, Студия Центр",
+      "slots": 6,
+      "price": "3 000 ₽"
+    },
+    {
+      "id": "e3",
+      "date": "2026-03-15",
+      "title": "МК «Брошь-Пион»",
+      "description": "Создаём роскошную объёмную брошь в виде пиона. Техника лепки лепестков, тонирование и сборка. Для новичков.",
+      "image": "img/product-brooch-set.png",
+      "time": "11:00 — 14:00",
+      "location": "ул. Центральная, 5, Студия Центр",
+      "slots": 5,
+      "price": "2 500 ₽"
+    },
+    {
+      "id": "e4",
+      "date": "2026-03-15",
+      "title": "МК «Кольцо Лепесток»",
+      "description": "Минималистичное кольцо с крупным лепестком. Имитация нефрита. Средний уровень.",
+      "image": "img/product-ring.png",
+      "time": "16:00 — 19:00",
+      "location": "ул. Творческая, 12, Студия ARGILLA",
+      "slots": 4,
+      "price": "3 200 ₽"
+    },
+    {
+      "id": "e5",
+      "date": "2026-03-22",
+      "title": "МК «Серьги-лепестки»",
+      "description": "Создаём пару серег с текстурой настоящих лепестков. Работаем с каттерами и текстурными листами.",
+      "image": "img/product-earrings.png",
+      "time": "15:00 — 18:30",
+      "location": "ул. Творческая, 12, Студия ARGILLA",
+      "slots": 6,
+      "price": "3 200 ₽"
+    },
+    {
+      "id": "e6",
+      "date": "2026-03-28",
+      "title": "МК «Кольцо с камнем»",
+      "description": "Продвинутый уровень. Имитация натурального камня в полимерной глине. Создадите уникальное кольцо.",
+      "image": "img/product-ring.png",
+      "time": "12:00 — 16:00",
+      "location": "ул. Центральная, 5, Студия Центр",
+      "slots": 4,
+      "price": "3 500 ₽"
+    },
+    {
+      "id": "e7",
+      "date": "2026-03-28",
+      "title": "МК «Ботанический слепок»",
+      "description": "Делаем оттиски живых растений в глине. Превращаем их в броши и подвески. Для новичков.",
+      "image": "img/clay-texture.png",
+      "time": "17:00 — 19:30",
+      "location": "ул. Творческая, 12, Студия ARGILLA",
+      "slots": 8,
+      "price": "2 200 ₽"
+    },
+    {
+      "id": "e8",
+      "date": "2026-04-05",
+      "title": "МК «Магнолия»",
+      "description": "Реалистичная брошь в виде цветка магнолии с нежными акварельными переходами.",
+      "image": "img/hero-brooch.png",
+      "time": "14:00 — 17:00",
+      "location": "ул. Творческая, 12, Студия ARGILLA",
+      "slots": 7,
+      "price": "3 000 ₽"
+    },
+    {
+      "id": "e9",
+      "date": "2026-04-12",
+      "title": "МК «Текстурные серьги»",
+      "description": "Работа с текстурами и штампами. Создаём две пары серёг в минималистичном стиле.",
+      "image": "img/product-earrings.png",
+      "time": "11:00 — 14:30",
+      "location": "ул. Центральная, 5, Студия Центр",
+      "slots": 6,
+      "price": "2 800 ₽"
+    },
+    {
+      "id": "e10",
+      "date": "2026-04-12",
+      "title": "Корпоративный МК",
+      "description": "Командный мастер-класс для вашей компании. Программа подбирается индивидуально.",
+      "image": "img/studio-workshop.png",
+      "time": "16:00 — 19:00",
+      "location": "Выездной формат",
+      "slots": 20,
+      "price": "2 000 ₽ / чел."
+    }
+  ],
+  "promoCodes": [
+    {
+      "id": "promo1",
+      "code": "ARGILLA10",
+      "type": "percent",
+      "value": 10,
+      "label": "10%"
+    },
+    {
+      "id": "promo2",
+      "code": "SPRING15",
+      "type": "percent",
+      "value": 15,
+      "label": "15%"
+    },
+    {
+      "id": "promo3",
+      "code": "WELCOME",
+      "type": "fixed",
+      "value": 500,
+      "label": "500 ₽"
+    }
+  ]
+}
